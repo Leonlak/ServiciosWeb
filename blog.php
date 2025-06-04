@@ -9,19 +9,19 @@ require 'includes/funciones.php';
         <article class="entrada-blog">
             <div class="imagen">
                 <picture>
-                    <source srcset="build/img/blog1.webp" type="image/webp">
-                    <source srcset="build/img/blog1.jpg" type="image/jpeg">
+                    <source srcset="build/img/blog0.1.webp" type="image/webp">
+                    <source srcset="build/img/blog0.1.jpg" type="image/jpeg">
                     <img loading="lazy" src="build/img/blog1.jpg" alt="Texto Entrada Blog">
                 </picture>
             </div>
 
             <div class="texto-entrada">
                 <a href="entrada.php">
-                    <h4>Terraza en el techo de tu casa</h4>
-                    <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                    <h4>Servicios Web SOAP</h4>
+                    <p>Escrito el: <span>02/06/2025</span> por: <span>Admin</span> </p>
 
                     <p>
-                        Consejos para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero
+                        Es un protocolo basado en XML que define reglas escritas para estructurar mensajes entre sistemas 
                     </p>
                 </a>
             </div>
@@ -30,19 +30,19 @@ require 'includes/funciones.php';
         <article class="entrada-blog">
             <div class="imagen">
                 <picture>
-                    <source srcset="build/img/blog2.webp" type="image/webp">
-                    <source srcset="build/img/blog2.jpg" type="image/jpeg">
+                    <source srcset="build/img/blog2.1.webp" type="image/webp">
+                    <source srcset="build/img/blog2.1.jpg" type="image/jpeg">
                     <img loading="lazy" src="build/img/blog2.jpg" alt="Texto Entrada Blog">
                 </picture>
             </div>
 
             <div class="texto-entrada">
                 <a href="entrada.php">
-                    <h4>Guía para la decoración de tu hogar</h4>
-                    <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                    <h4>Servicios Web REST</h4>
+                    <p>Escrito el: <span>02/06/2025</span> por: <span>Admin</span> </p>
 
                     <p>
-                        Maximiza el espacio en tu hogar con esta guia, aprende a combinar muebles y colores para darle vida a tu espacio
+                      Es un estilo arquitectonico, no un protocolo que se basa en operaciones HTTP estandar 
                     </p>
                 </a>
             </div>
@@ -51,19 +51,19 @@ require 'includes/funciones.php';
         <article class="entrada-blog">
             <div class="imagen">
                 <picture>
-                    <source srcset="build/img/blog3.webp" type="image/webp">
-                    <source srcset="build/img/blog3.jpg" type="image/jpeg">
+                    <source srcset="build/img/blog3.1.webp" type="image/webp">
+                    <source srcset="build/img/blog3.1.jpg" type="image/jpeg">
                     <img loading="lazy" src="build/img/blog3.jpg" alt="Texto Entrada Blog">
                 </picture>
             </div>
 
             <div class="texto-entrada">
                 <a href="entrada.php">
-                    <h4>Terraza en el techo de tu casa</h4>
-                    <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                    <h4>Servicios Web gRPC</h4>
+                    <p>Escrito el: <span>02/06/2025</span> por: <span>Admin</span> </p>
 
                     <p>
-                        Consejos para construir una terraza en el techo de tu casa con los mejores materiales y ahorrando dinero
+                        gRPC es un sistema de comunicacion moderno de llamadas a procedimientos remotos (RPC) desarrollado po Google
                     </p>
                 </a>
             </div>
@@ -72,19 +72,19 @@ require 'includes/funciones.php';
         <article class="entrada-blog">
             <div class="imagen">
                 <picture>
-                    <source srcset="build/img/blog4.webp" type="image/webp">
-                    <source srcset="build/img/blog4.jpg" type="image/jpeg">
+                    <source srcset="build/img/blog4.1.webp" type="image/webp">
+                    <source srcset="build/img/blog4.1.png" type="image/jpeg">
                     <img loading="lazy" src="build/img/blog4.jpg" alt="Texto Entrada Blog">
                 </picture>
             </div>
 
             <div class="texto-entrada">
                 <a href="entrada.php">
-                    <h4>Guía para la decoración de tu hogar</h4>
-                    <p>Escrito el: <span>20/10/2021</span> por: <span>Admin</span> </p>
+                    <h4>Servicios Web GraphQL</h4>
+                    <p>Escrito el: <span>02/06/2025</span> por: <span>Admin</span> </p>
 
                     <p>
-                        Maximiza el espacio en tu hogar con esta guia, aprende a combinar muebles y colores para darle vida a tu espacio
+                        GraphQL es un lenguaje de consultas desarrollado por Facebook para APIs, que permite al cliente
                     </p>
                 </a>
             </div>

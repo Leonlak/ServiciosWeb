@@ -507,11 +507,11 @@ h4 {
 
 /** UI **/
 .no-webp .inicio {
-  background-image: url(../img/header.jpg);
+  background-image: url(../img/header1.jpg);
 }
 
 .webp .inicio {
-  background-image: url(../img/header.webp);
+  background-image: url(../img/header1.webp);
 }
 
 .header {

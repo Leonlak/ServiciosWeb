@@ -183,7 +183,7 @@ if($resultado) {
  ?>
 
     <main class="contenedor seccion">
-        <h1>Actualizar Propiedad</h1>
+        <h1>Actualizar Servicio</h1>
 
         <a href="/admin" class="boton boton-verde">Volver</a>
 
@@ -215,7 +215,7 @@ if($resultado) {
             </fieldset>
 
             <fieldset>
-                <legend>Informacion Propiedad</legend>
+                <legend>Informacion Servicio</legend>
 
                 <label for="habitaciones">Habitaciones:</label>
                 <input type="number" id="habitaciones" name="habitaciones" placeholder="Ej: 3" min="1" max="9" value="<?php echo $habitaciones; ?>">
@@ -228,7 +228,7 @@ if($resultado) {
             </fieldset>
 
             <fieldset>
-                <legend>Vendedor</legend>
+                <legend>Desarrollador</legend>
 
                 <select name="vendedor">
                     <option value="">--Seleccione --</option>

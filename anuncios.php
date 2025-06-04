@@ -10,7 +10,7 @@ require 'includes/funciones.php';
 
     <main class="contenedor seccion">
 
-        <h2>Casas y Depas en Venta</h2>
+        <h2>Servicios web en Venta</h2>
 
         <?php 
        $limite = 10;

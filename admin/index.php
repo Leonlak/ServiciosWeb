@@ -7,7 +7,6 @@ if(!$auth) {
     header('Location: / ');
 }
 //importar la conexion
-
 require '../includes/config/database.php';
 $db = conectarDB();
 
